@@ -1,7 +1,11 @@
-#include<bits/stdc++.>
-using namespace std
+#include <iostream>
 
-int main( {
-   int t = ;
-   return “hello”;
+using std::cin;
+using std::cout;
+using std::endl;
+
+int main() {
+   int t;
+   cin >> t;
+   return 0;
 }
