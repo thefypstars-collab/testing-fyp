@@ -1,7 +1,5 @@
-#include<bits/stdc++.>
-using namespace std
+#include <bits/stdc++.h>
 
-int main( {
-   int t = ;
-   return “hello”;
+int main() {
+   return "hello";
 }
