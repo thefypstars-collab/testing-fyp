@@ -1,7 +1,9 @@
-#include<bits/stdc++.>
-using namespace std
+#include <bits/stdc++.h>
 
-int main( {
-   int t = ;
-   return “hello”;
+using std::cout;
+using std::endl;
+
+int main() {
+   int t = 0;
+   return 0;
 }
